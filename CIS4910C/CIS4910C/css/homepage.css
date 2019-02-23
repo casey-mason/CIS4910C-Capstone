@@ -1,0 +1,46 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #F5F5F5;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+h1 {
+
+color: #4D4D4D;
+font-style:italic;
+font-size: 20px;
+font-style: oblique;
+
+}
+
+h5 {
+font-weight: bold;
+
+}
+
+p1 {
+
+  color: #4D4D4D;
+  font-style:italic;
+  font-size: 14px;
+  position: fixed;
+  padding-left: 50px;
+  padding-right: 50px;
+
+
+}
+
+.row{
+
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.container{
+
+    padding-left:50px;
+    padding-right:50px;
+
+}

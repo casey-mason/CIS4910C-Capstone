@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-HL1G6V6</Machine>
+    <WindowsUser>lilmase08</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3</PackageIdentityName>
+    <PackageIdentityPublisher>CN=lilmase08</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>BE74001E1DC4B720C0FF53925A799077454F271BD90CC5843D633CA603A0FDA2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3_1.0.0.0_neutral__vbdscxf3q0rwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3_vbdscxf3q0rwe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lilmase08</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-02-18T00:48:03.867</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap-theme.css">
+      <PackagePath>css\bootstrap-theme.css</PackagePath>
+      <Modified>2018-11-13T00:46:09.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap-theme.min.css">
+      <PackagePath>css\bootstrap-theme.min.css</PackagePath>
+      <Modified>2018-11-13T00:46:10.306</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+      <Modified>2018-11-13T00:46:10.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+      <Modified>2018-11-13T00:46:11.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\homepage.css">
+      <PackagePath>css\homepage.css</PackagePath>
+      <Modified>2019-02-18T00:45:20.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2019-02-17T18:09:13.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap-theme.css.map">
+      <PackagePath>css\bootstrap-theme.css.map</PackagePath>
+      <Modified>2018-11-13T00:46:10.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap-theme.min.css.map">
+      <PackagePath>css\bootstrap-theme.min.css.map</PackagePath>
+      <Modified>2018-11-13T00:46:10.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap.css.map">
+      <PackagePath>css\bootstrap.css.map</PackagePath>
+      <Modified>2018-11-13T00:46:10.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\css\bootstrap.min.css.map">
+      <PackagePath>css\bootstrap.min.css.map</PackagePath>
+      <Modified>2018-11-13T00:46:11.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\anniversary.jpg">
+      <PackagePath>images\anniversary.jpg</PackagePath>
+      <Modified>2018-12-03T03:19:38.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\candlelogo.jpg">
+      <PackagePath>images\candlelogo.jpg</PackagePath>
+      <Modified>2018-11-23T02:05:36.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\dollarrose.jpg">
+      <PackagePath>images\dollarrose.jpg</PackagePath>
+      <Modified>2019-02-18T00:20:36.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\dollarsign.jpg">
+      <PackagePath>images\dollarsign.jpg</PackagePath>
+      <Modified>2019-02-18T00:47:44.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\heartcandle.jpg">
+      <PackagePath>images\heartcandle.jpg</PackagePath>
+      <Modified>2018-11-23T04:25:42.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\purplecandle.jpg">
+      <PackagePath>images\purplecandle.jpg</PackagePath>
+      <Modified>2018-11-23T04:15:59.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\redorangecandle.jpg">
+      <PackagePath>images\redorangecandle.jpg</PackagePath>
+      <Modified>2018-11-23T04:26:40.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\saving.jpg">
+      <PackagePath>images\saving.jpg</PackagePath>
+      <Modified>2019-02-18T00:43:42.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\cmletter.png">
+      <PackagePath>images\cmletter.png</PackagePath>
+      <Modified>2019-02-11T02:37:57.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-24T01:34:31.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2019-02-19T03:14:25.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\js\bootstrap.js">
+      <PackagePath>js\bootstrap.js</PackagePath>
+      <Modified>2018-11-13T00:46:12.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+      <Modified>2018-11-13T00:46:12.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2019-02-17T18:57:02.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-02-18T00:48:03.815</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

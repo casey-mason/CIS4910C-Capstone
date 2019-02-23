@@ -1,0 +1,95 @@
+﻿<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css\homepage.css" rel="stylesheet">
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="assets/js/ie-emulation-modes-warning.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <a href="homepage.html"> <center> <img width="300" height="150" src="images/cmletter.png"> </center> </a>
+    <h1> <center> CM Tracker </center> </h1>
+    <div class="container">
+        <!--Static navbar -->
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" aria-expanded="true" aria-controls="navbar" type="button" data-toggle="collapse" data-target="#navbar">...</button>
+                    <div class="navbar-collapse collapse in" id="navbar" aria-expanded="true" style="">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="homepage.html">Home</a></li>
+                            <li><a href="aboutme.html">About CM</a></li>
+                            <li><a href="products.html">Ways to Save</a></li>
+                            <li><a href="orderhere.html">Calculator</a></li>
+                            <li><a href="contactus.html">Resources</a></li>
+                        </ul>
+                    </div>
+                </div><!--/.nav-collapse -->
+            </div><!--/.container-fluid -->
+        </nav>
+    </div>
+    <p1>Welcome to CM Tracker, the one stop for help with all your loan payment needs. Whether it is trying to figure out ways to save money or <br /> not knowing where to go for loan specific questions, we are here for you. </p1>
+    <br />
+    <br />
+    <!-- Button to open the modal login form -->
+    <center><button onclick="document.getElementById('id01').style.display='block'">Login</button></center>
+    <br />
+
+    <!-- The Modal -->
+    <div id="id01" class="modal">
+        <span onclick="document.getElementById('id01').style.display='none'"
+              class="close" title="Close Modal">&times;</span>
+
+        <!-- Modal Content -->
+        <form class="modal-content animate" action="/action_page.php">
+ 
+
+            <div class="container">
+                <label for="uname"><b>Username</b></label>
+                <input type="text" placeholder="Enter Username" name="uname" required>
+
+                <label for="psw"><b>Password</b></label>
+                <input type="password" placeholder="Enter Password" name="psw" required>
+
+                <button type="submit">Login</button>
+                <label>
+                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                </label>
+            </div>
+
+            <div class="container" style="background-color:#f1f1f1">
+                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+                <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+        </form>
+    </div>
+    <br />
+    <br />
+    <div class="row">
+        <div class="col-md-4"> <img src="images\saving.jpg" alt="candle" width="200" height="200"> </div>
+        <div class="col-md-4"> <img src="images\dollarrose.jpg" alt="candle" width="200" height="200"> </div>
+        <div class="col-md-4"> <img src="images\dollarsign.jpg" alt="candle" width="200" height="200"> </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
