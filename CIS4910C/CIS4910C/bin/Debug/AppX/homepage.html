@@ -32,7 +32,7 @@
                             <li><a href="aboutme.html">About CM</a></li>
                             <li><a href="waystosave.html">Ways to Save</a></li>
                             <li><a href="calculator.html">Calculator</a></li>
-                            <li><a href=resources.html">Resources</a></li>
+                            <li><a href="resource.html">Resources</a></li>
                         </ul>
                     </div>
                 </div><!--/.nav-collapse -->
@@ -42,9 +42,17 @@
     <p1>Welcome to CM Tracker, the one stop for help with all your loan payment needs. Whether it is trying to figure out ways to save money or <br /> not knowing where to go for loan specific questions, we are here for you. </p1>
     <br />
     <br />
+    <!-- Button to open the modal login form -->
+    <center><button onclick="document.getElementById('id01').style.display='block'">Login</button></center>
+    <br />
 
+    <div id="id01" class="modal">
+        <span onclick="document.getElementById('id01').style.display='none'"
+              class="close" title="Close Modal">&times;</span>
+
+        <!-- Modal Content -->
         <form class="modal-content animate" action="/action_page.php">
- 
+
 
             <div class="container">
                 <label for="uname"><b>Username</b></label>

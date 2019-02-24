@@ -1,1 +1,1 @@
-C:\Users\lilma\Documents\Rasmussen\Capstone\CIS4910C\CIS4910C\CIS4910C.jsproj;neutral
+C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\CIS4910C.jsproj;neutral

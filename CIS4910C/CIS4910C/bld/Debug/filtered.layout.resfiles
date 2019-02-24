@@ -1,3 +1,5 @@
+aboutme.html
+calculator.html
 css\bootstrap.css
 css\bootstrap.css.map
 css\bootstrap.min.css
@@ -8,6 +10,7 @@ css\bootstrap-theme.min.css
 css\bootstrap-theme.min.css.map
 css\default.css
 css\homepage.css
+homepage.html
 images\anniversary.jpg
 images\candlelogo.jpg
 images\cmletter.png
@@ -28,3 +31,5 @@ index.html
 js\bootstrap.js
 js\bootstrap.min.js
 js\main.js
+resources.html
+waystosave.html

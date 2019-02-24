@@ -58,6 +58,8 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="aboutme.html" />
+    <Content Include="calculator.html" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.css.map" />
     <Content Include="css\bootstrap-theme.min.css" />
@@ -67,6 +69,7 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\bootstrap.min.css.map" />
     <Content Include="css\homepage.css" />
+    <Content Include="homepage.html" />
     <Content Include="images\anniversary.jpg" />
     <Content Include="images\candlelogo.jpg" />
     <Content Include="images\cmletter.png" />
@@ -88,6 +91,8 @@
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
+    <Content Include="resources.html" />
+    <Content Include="waystosave.html" />
     <None Include="CIS4910C_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
