@@ -9,6 +9,7 @@ color: #4D4D4D;
 font-style:italic;
 font-size: 20px;
 font-style: oblique;
+position: center;
 
 }
 
@@ -53,6 +54,6 @@ p2 {
 .container{
 
     padding-left:50px;
-    padding-right:50px;
+    padding-right:100px;
 
 }
