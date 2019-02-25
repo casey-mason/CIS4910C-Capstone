@@ -1,13 +1,12 @@
-﻿<html lang="en">
+﻿<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <!-- Custom styles for this template -->
-    <link href="css\homepage.css" rel="stylesheet">
+    <link href="css\capstone.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
@@ -17,6 +16,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body>
     <a href="homepage.html"> <center> <img width="300" height="150" src="images/cmletter.png"> </center> </a>
     <h1> <center> CM Tracker </center> </h1>
@@ -32,7 +32,7 @@
                             <li><a href="aboutme.html">About CM</a></li>
                             <li><a href="waystosave.html">Ways to Save</a></li>
                             <li><a href="calculator.html">Calculator</a></li>
-                            <li><a href=resources.html">Resources</a></li>
+                            <li><a href="resources.html">Resources</a></li>
                         </ul>
                     </div>
                 </div><!--/.nav-collapse -->
@@ -42,29 +42,29 @@
     <p1>Welcome to CM Tracker, the one stop for help with all your loan payment needs. Whether it is trying to figure out ways to save money or <br /> not knowing where to go for loan specific questions, we are here for you. </p1>
     <br />
     <br />
+    <br />
 
-        <form class="modal-content animate" action="/action_page.php">
- 
-
+        <form action="https://cmloantracker.azurewebsites.net/">
             <div class="container">
                 <label for="uname"><b>Username</b></label>
-                <input type="text" placeholder="Enter Username" name="uname" required>
+                <input type="text" placeholder="Enter Username" name="Username" required>
 
+                <br />
+                <br />
+               
                 <label for="psw"><b>Password</b></label>
-                <input type="password" placeholder="Enter Password" name="psw" required>
+                <input type="password" placeholder="Enter Password" name="Password" required>
+                
+                <br />
+                <br />
 
                 <button type="submit">Login</button>
+
                 <label>
                     <input type="checkbox" checked="checked" name="remember"> Remember me
                 </label>
             </div>
-
-            <div class="container" style="background-color:#f1f1f1">
-                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
-                <span class="psw">Forgot <a href="#">password?</a></span>
-            </div>
         </form>
-    </div>
     <br />
     <br />
     <div class="row">
@@ -73,14 +73,5 @@
         <div class="col-md-4"> <img src="images\dollarsign.jpg" alt="candle" width="200" height="200"> </div>
     </div>
 
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
 </body>
 </html>

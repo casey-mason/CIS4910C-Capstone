@@ -55,8 +55,8 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\bootstrap.min.css">
       <PackagePath>css\bootstrap.min.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\homepage.css">
-      <PackagePath>css\homepage.css</PackagePath>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\capstone.css">
+      <PackagePath>css\capstone.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\default.css">
       <PackagePath>css\default.css</PackagePath>
@@ -72,30 +72,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\bootstrap.min.css.map">
       <PackagePath>css\bootstrap.min.css.map</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\anniversary.jpg">
-      <PackagePath>images\anniversary.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\candlelogo.jpg">
-      <PackagePath>images\candlelogo.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarrose.jpg">
-      <PackagePath>images\dollarrose.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarsign.jpg">
-      <PackagePath>images\dollarsign.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\heartcandle.jpg">
-      <PackagePath>images\heartcandle.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\purplecandle.jpg">
-      <PackagePath>images\purplecandle.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\redorangecandle.jpg">
-      <PackagePath>images\redorangecandle.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\saving.jpg">
-      <PackagePath>images\saving.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\cmletter.png">
       <PackagePath>images\cmletter.png</PackagePath>
@@ -126,6 +102,15 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarrose.jpg">
+      <PackagePath>images\dollarrose.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarsign.jpg">
+      <PackagePath>images\dollarsign.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\saving.jpg">
+      <PackagePath>images\saving.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\js\bootstrap.js">
       <PackagePath>js\bootstrap.js</PackagePath>

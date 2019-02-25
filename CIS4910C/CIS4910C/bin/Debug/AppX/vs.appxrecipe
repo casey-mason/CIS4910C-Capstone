@@ -32,33 +32,33 @@
     <AppXManifest Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-24T21:04:27.002</Modified>
+      <Modified>2019-02-25T01:46:03.386</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\aboutme.html">
       <PackagePath>aboutme.html</PackagePath>
-      <Modified>2019-02-24T21:02:42.775</Modified>
+      <Modified>2019-02-25T01:44:33.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\calculator.html">
       <PackagePath>calculator.html</PackagePath>
-      <Modified>2018-10-24T01:34:31.204</Modified>
+      <Modified>2019-02-25T01:44:32.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\homepage.html">
       <PackagePath>homepage.html</PackagePath>
-      <Modified>2019-02-24T21:02:42.813</Modified>
+      <Modified>2019-02-25T01:44:32.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2019-02-24T21:15:05.893</Modified>
+      <Modified>2019-02-25T01:46:01.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\resources.html">
       <PackagePath>resources.html</PackagePath>
-      <Modified>2018-10-24T01:34:31.204</Modified>
+      <Modified>2019-02-25T01:44:32.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\waystosave.html">
       <PackagePath>waystosave.html</PackagePath>
-      <Modified>2019-02-24T21:35:43.885</Modified>
+      <Modified>2019-02-25T01:44:33.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
@@ -76,9 +76,9 @@
       <PackagePath>css\bootstrap.min.css</PackagePath>
       <Modified>2018-11-13T00:46:11.038</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\homepage.css">
-      <PackagePath>css\homepage.css</PackagePath>
-      <Modified>2019-02-18T00:45:20.175</Modified>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\capstone.css">
+      <PackagePath>css\capstone.css</PackagePath>
+      <Modified>2019-02-25T01:16:11.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\default.css">
       <PackagePath>css\default.css</PackagePath>
@@ -99,38 +99,6 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\css\bootstrap.min.css.map">
       <PackagePath>css\bootstrap.min.css.map</PackagePath>
       <Modified>2018-11-13T00:46:11.223</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\anniversary.jpg">
-      <PackagePath>images\anniversary.jpg</PackagePath>
-      <Modified>2018-12-03T03:19:38.674</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\candlelogo.jpg">
-      <PackagePath>images\candlelogo.jpg</PackagePath>
-      <Modified>2018-11-23T02:05:36.468</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarrose.jpg">
-      <PackagePath>images\dollarrose.jpg</PackagePath>
-      <Modified>2019-02-18T00:20:36.367</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarsign.jpg">
-      <PackagePath>images\dollarsign.jpg</PackagePath>
-      <Modified>2019-02-18T00:47:44.529</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\heartcandle.jpg">
-      <PackagePath>images\heartcandle.jpg</PackagePath>
-      <Modified>2018-11-23T04:25:42.990</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\purplecandle.jpg">
-      <PackagePath>images\purplecandle.jpg</PackagePath>
-      <Modified>2018-11-23T04:15:59.139</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\redorangecandle.jpg">
-      <PackagePath>images\redorangecandle.jpg</PackagePath>
-      <Modified>2018-11-23T04:26:40.309</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\saving.jpg">
-      <PackagePath>images\saving.jpg</PackagePath>
-      <Modified>2019-02-18T00:43:42.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\cmletter.png">
       <PackagePath>images\cmletter.png</PackagePath>
@@ -170,6 +138,18 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-10-24T01:34:31.204</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarrose.jpg">
+      <PackagePath>images\dollarrose.jpg</PackagePath>
+      <Modified>2019-02-18T00:20:36.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\dollarsign.jpg">
+      <PackagePath>images\dollarsign.jpg</PackagePath>
+      <Modified>2019-02-18T00:47:44.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\images\saving.jpg">
+      <PackagePath>images\saving.jpg</PackagePath>
+      <Modified>2019-02-18T00:43:42.054</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\js\bootstrap.js">
       <PackagePath>js\bootstrap.js</PackagePath>
       <Modified>2018-11-13T00:46:12.662</Modified>
@@ -185,7 +165,7 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\CIS4910C\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-24T21:04:26.940</Modified>
+      <Modified>2019-02-25T01:46:03.164</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
