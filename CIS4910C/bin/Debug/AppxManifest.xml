@@ -38,7 +38,7 @@
     <build:Item Name="VisualStudio" Version="15.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2017" />
     <build:Item Name="OperatingSystem" Version="10.0.17134.1 (WinBuild.160101.0800)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.28010.2016" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.28307.104" />
     <build:Item Name="ProjectGUID" Value="2072c3d4-9d6a-4d2f-9bf6-40792b06dee3" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="AppHost" />

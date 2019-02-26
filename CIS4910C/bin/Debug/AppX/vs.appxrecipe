@@ -20,19 +20,18 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>BE74001E1DC4B720C0FF53925A799077454F271BD90CC5843D633CA603A0FDA2</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>896441891A16A4C8D06D81D0EC9A3A10481AC2F7B2A395EDF1615B3E017A5861</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3_1.0.0.0_neutral__vbdscxf3q0rwe</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3_vbdscxf3q0rwe!App</RegisteredUserModeAppID>
     <RegisteredPackageID>2072c3d4-9d6a-4d2f-9bf6-40792b06dee3</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=lilmase08</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-25T01:46:03.386</Modified>
+      <Modified>2019-02-26T00:31:36.235</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -42,7 +41,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\calculator.html">
       <PackagePath>calculator.html</PackagePath>
-      <Modified>2019-02-25T03:09:16.694</Modified>
+      <Modified>2019-02-25T03:24:05.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\homepage.html">
       <PackagePath>homepage.html</PackagePath>
@@ -50,7 +49,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2019-02-25T02:54:32.671</Modified>
+      <Modified>2019-02-25T03:24:05.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\resources.html">
       <PackagePath>resources.html</PackagePath>
@@ -58,7 +57,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\waystosave.html">
       <PackagePath>waystosave.html</PackagePath>
-      <Modified>2019-02-25T02:57:36.628</Modified>
+      <Modified>2019-02-26T01:22:01.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
@@ -164,8 +163,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-25T01:46:03.164</Modified>
+      <Modified>2019-02-26T00:31:36.071</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
