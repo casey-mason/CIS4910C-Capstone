@@ -31,7 +31,7 @@
     <AppXManifest Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-26T00:31:36.235</Modified>
+      <Modified>2019-03-03T22:02:34.139</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -41,7 +41,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\calculator.html">
       <PackagePath>calculator.html</PackagePath>
-      <Modified>2019-03-03T20:20:24.500</Modified>
+      <Modified>2019-03-03T22:05:27.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\homepage.html">
       <PackagePath>homepage.html</PackagePath>
@@ -49,15 +49,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2019-03-03T19:36:45.184</Modified>
+      <Modified>2019-03-03T22:02:33.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\resources.html">
       <PackagePath>resources.html</PackagePath>
-      <Modified>2019-03-03T20:18:25.681</Modified>
+      <Modified>2019-03-03T22:25:48.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\signoff.html">
+      <PackagePath>signoff.html</PackagePath>
+      <Modified>2019-03-03T22:02:33.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\waystosave.html">
       <PackagePath>waystosave.html</PackagePath>
       <Modified>2019-02-26T01:22:01.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\cis4910c.php">
+      <PackagePath>cis4910c.php</PackagePath>
+      <Modified>2019-03-03T20:52:55.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
@@ -163,7 +171,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-02-26T00:31:36.071</Modified>
+      <Modified>2019-03-03T22:02:33.952</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

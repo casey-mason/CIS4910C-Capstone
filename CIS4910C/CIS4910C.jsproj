@@ -60,6 +60,7 @@
     </AppxManifest>
     <Content Include="aboutme.html" />
     <Content Include="calculator.html" />
+    <Content Include="cis4910c.php" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.css.map" />
     <Content Include="css\bootstrap-theme.min.css" />
@@ -87,6 +88,7 @@
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
     <Content Include="resources.html" />
+    <Content Include="signoff.html" />
     <Content Include="waystosave.html" />
     <None Include="CIS4910C_TemporaryKey.pfx" />
   </ItemGroup>

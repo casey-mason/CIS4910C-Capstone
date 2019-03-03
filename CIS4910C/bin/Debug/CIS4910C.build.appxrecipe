@@ -40,8 +40,14 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\resources.html">
       <PackagePath>resources.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\signoff.html">
+      <PackagePath>signoff.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\waystosave.html">
       <PackagePath>waystosave.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\cis4910c.php">
+      <PackagePath>cis4910c.php</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
