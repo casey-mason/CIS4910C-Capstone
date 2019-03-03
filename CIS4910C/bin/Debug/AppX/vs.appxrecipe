@@ -37,23 +37,23 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\aboutme.html">
       <PackagePath>aboutme.html</PackagePath>
-      <Modified>2019-02-25T02:54:32.652</Modified>
+      <Modified>2019-02-26T01:24:13.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\calculator.html">
       <PackagePath>calculator.html</PackagePath>
-      <Modified>2019-02-25T03:24:05.004</Modified>
+      <Modified>2019-03-03T20:20:24.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\homepage.html">
       <PackagePath>homepage.html</PackagePath>
-      <Modified>2019-02-25T03:08:49.855</Modified>
+      <Modified>2019-02-26T01:24:13.196</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2019-02-25T03:24:05.058</Modified>
+      <Modified>2019-03-03T19:36:45.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\resources.html">
       <PackagePath>resources.html</PackagePath>
-      <Modified>2019-02-25T02:55:35.314</Modified>
+      <Modified>2019-03-03T20:18:25.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\waystosave.html">
       <PackagePath>waystosave.html</PackagePath>
