@@ -37,6 +37,21 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\changed-pwd.html">
+      <PackagePath>php\changed-pwd.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\index.html">
+      <PackagePath>php\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\reset-pwd-link-sent.html">
+      <PackagePath>php\reset-pwd-link-sent.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\thank-you-regd.html">
+      <PackagePath>php\thank-you-regd.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\thank-you.html">
+      <PackagePath>php\thank-you.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\resources.html">
       <PackagePath>resources.html</PackagePath>
     </AppxPackagedFile>
@@ -46,8 +61,68 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\waystosave.html">
       <PackagePath>waystosave.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\calculator.js">
+      <PackagePath>calculator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\js\bootstrap.js">
+      <PackagePath>js\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\scripts\gen_validatorv31.js">
+      <PackagePath>php\scripts\gen_validatorv31.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\scripts\pwdwidget.js">
+      <PackagePath>php\scripts\pwdwidget.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\cis4910c.php">
       <PackagePath>cis4910c.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.php">
+      <PackagePath>index.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\access-controlled.php">
+      <PackagePath>php\access-controlled.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\change-pwd.php">
+      <PackagePath>php\change-pwd.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\confirmreg.php">
+      <PackagePath>php\confirmreg.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\include\class.phpmailer.php">
+      <PackagePath>php\include\class.phpmailer.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\include\fg_membersite.php">
+      <PackagePath>php\include\fg_membersite.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\include\formvalidator.php">
+      <PackagePath>php\include\formvalidator.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\include\membersite_config.php">
+      <PackagePath>php\include\membersite_config.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\login-home.php">
+      <PackagePath>php\login-home.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\login.php">
+      <PackagePath>php\login.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\logout.php">
+      <PackagePath>php\logout.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\register.php">
+      <PackagePath>php\register.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\reset-pwd-req.php">
+      <PackagePath>php\reset-pwd-req.php</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\resetpwd.php">
+      <PackagePath>php\resetpwd.php</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
@@ -66,6 +141,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\default.css">
       <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\style\fg_membersite.css">
+      <PackagePath>php\style\fg_membersite.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\style\pwdwidget.css">
+      <PackagePath>php\style\pwdwidget.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\bootstrap-theme.css.map">
       <PackagePath>css\bootstrap-theme.css.map</PackagePath>
@@ -117,15 +198,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\images\saving.jpg">
       <PackagePath>images\saving.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\js\bootstrap.js">
-      <PackagePath>js\bootstrap.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\js\bootstrap.min.js">
-      <PackagePath>js\bootstrap.min.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\js\main.js">
-      <PackagePath>js\main.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>

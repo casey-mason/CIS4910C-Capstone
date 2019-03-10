@@ -7,7 +7,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css\capstone.css" rel="stylesheet">
+    <link href="css/capstone.css" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="assets/js/ie-emulation-modes-warning.js"></script>
@@ -16,6 +16,9 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <script type="text/javascript" src="calculator.js"></script>
+
 </head>
 <body>
     <a href="homepage.html"> <center> <img width="300" height="150" src="images/cmletter.png"> </center> </a>
@@ -39,12 +42,23 @@
             </div><!--/.container-fluid -->
         </nav>
     </div>
-   
+
     <div class="row">
-        <div class="col-md-6"> </div>
-        <div class="col-md-6"> </div>
+        <div class="col-md-6">
+
+            <input id="TotalLoans" type="text" value="0" /> <br />
+
+            <input id="InterestRate" type="text" value="2" />
+
+        </div>
+        <div class="col-md-6">
+
+
+        </div>
     </div>
 
+    <button onclick="document.getElementById ('loans').innerHTML=loans()">Cost Savings </button>
+    <p1 id="loans"></p1>
 
     <br />
     <br />
@@ -59,7 +73,6 @@
         <div class="col-md-6"> Casey Mason-Creator of CMTracker </div>
         <div class="col-md-6"> Further Questions?? <a href="http://www.gmail.com">Click here to email me today!! </a> </div>
     </div>
-
 
 </body>
 </html>

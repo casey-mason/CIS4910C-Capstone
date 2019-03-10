@@ -1,11 +1,20 @@
-﻿<!DOCTYPE html>
+﻿<?php
+
+session_start();
+
+if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] == false) {
+header ("Location: index.html");
+
+}
+
+?>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="css\capstone.css" rel="stylesheet">
+    <link href="css/capstone.css" rel="stylesheet">
 
 </head>
 <body>
@@ -32,12 +41,22 @@
     </div>
 
     <table>
-        What type of help are you looking for?
-        <li> Financial Advisor? </li>
-        <li> Loan Assistance Program? </li>
-
+       
+        <li> Financial Advisor </li>
+        <li> Loan Assistance Program </li>
+  
     </table>
+    
+    Can't see what you are looking for? Submit your name, email, and brief description of your question and we will get back to you as soon as possible
 
+    <br /><br />
+
+    <input id="Name" type="text" value="Name" /> <br /><br />
+
+    <input id="Email" type="text" value="Email"/> <br /> <br />
+
+    <textarea id="BriefDescription" rows="6" cols="40" value="Brief Description"></textarea><br /><br />
+    
     <input id="Submit1" type="submit" value="submit" onclick="" />
 
     <br />
