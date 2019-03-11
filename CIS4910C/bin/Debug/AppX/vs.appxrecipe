@@ -31,7 +31,7 @@
     <AppXManifest Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-03-09T19:07:59.804</Modified>
+      <Modified>2019-03-10T22:52:47.445</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -46,10 +46,6 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\homepage.html">
       <PackagePath>homepage.html</PackagePath>
       <Modified>2019-02-26T01:24:13.196</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.html">
-      <PackagePath>index.html</PackagePath>
-      <Modified>2019-03-09T19:07:30.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\changed-pwd.html">
       <PackagePath>php\changed-pwd.html</PackagePath>
@@ -113,7 +109,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\index.php">
       <PackagePath>index.php</PackagePath>
-      <Modified>2019-03-09T18:01:23.749</Modified>
+      <Modified>2019-03-10T22:54:29.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\access-controlled.php">
       <PackagePath>php\access-controlled.php</PackagePath>
@@ -166,6 +162,10 @@
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\php\resetpwd.php">
       <PackagePath>php\resetpwd.php</PackagePath>
       <Modified>2019-03-05T03:19:16.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\resources.php">
+      <PackagePath>resources.php</PackagePath>
+      <Modified>2019-03-10T22:54:29.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\css\bootstrap-theme.css">
       <PackagePath>css\bootstrap-theme.css</PackagePath>
@@ -267,7 +267,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lilma\Documents\Rasmussen\Capstone\GitHub\CIS4910C-Capstone\CIS4910C\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-03-09T19:07:59.725</Modified>
+      <Modified>2019-03-10T22:52:47.380</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

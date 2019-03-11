@@ -24,7 +24,6 @@ images\Square44x44Logo.scale-200.png
 images\Square44x44Logo.targetsize-24_altform-unplated.png
 images\StoreLogo.png
 images\Wide310x150Logo.scale-200.png
-index.html
 index.php
 js\bootstrap.js
 js\bootstrap.min.js
@@ -52,5 +51,6 @@ php\style\pwdwidget.css
 php\thank-you.html
 php\thank-you-regd.html
 resources.html
+resources.php
 signoff.html
 waystosave.html

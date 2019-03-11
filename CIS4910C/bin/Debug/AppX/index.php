@@ -1,19 +1,26 @@
-﻿<!DOCTYPE HTML>
+﻿<?php
 
-    <?php
+session_start();
 
-    $serverName = "cmtracker.database.windows.net, 1433";
-    $connectionInfo = array("Database"=>"CMTracker", "UID"=>"cmason", "PWD"=>"rt28bsj!");
-    $conn = sqlsrv_connect( $serverName, $connectionInfo);
+$username = "username";
+$password = "password";
 
-    if( $conn ) {
-    echo "Connection established.<br />";
-    }else{
-    echo "Connection could not be established.<br />";
-    die( print_r( sqlsrv_errors(), true));
-    }
-    ?>
+if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
+header("Location: resources.php");
+}
 
+if (isset($_POST['username']) && isset($_POST['password'])) {
+    if ($_POST['username'] == $username && $_POST['password'] == $password)
+
+{
+$_SESSION['loggedin'] = true;
+header("Location: resources.php");
+
+}
+}
+?>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,23 +66,16 @@
     <br />
     <br />
 
-    <form id='login' method='post' accept-charset='UTF-8'>
+    <form method="post" action="resources.html">
 
-        <fieldset>
+        UserName*:
+        <input type="text" name="Username">
 
-            <legend>Login</legend>
-            <input type='hidden' name='submitted' id='submitted' value='1' />
+        Password*:
+        <input type="password" name="Password">
 
+        <input type="submit" value="Submit">
 
-            <label for='Username'>UserName*:</label>
-            <input type='text' name='Username' id='Username' maxlength="50" />
-
-
-            <label for='Password'>Password*:</label>
-            <input type='password' name='Password' id='Password' maxlength="50" />
-
-            <input type='submit' name='Submit' value='Submit' />
-        </fieldset>
     </form>
 
 

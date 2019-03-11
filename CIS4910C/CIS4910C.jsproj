@@ -83,12 +83,12 @@
     <Content Include="images\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="images\StoreLogo.png" />
     <Content Include="images\Wide310x150Logo.scale-200.png" />
-    <Content Include="index.html" />
     <Content Include="index.php" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
+    <Content Include="index.html" />
     <Content Include="php\access-controlled.php" />
     <Content Include="php\change-pwd.php" />
     <Content Include="php\changed-pwd.html" />
@@ -112,6 +112,7 @@
     <Content Include="php\thank-you-regd.html" />
     <Content Include="php\thank-you.html" />
     <Content Include="resources.html" />
+    <Content Include="resources.php" />
     <Content Include="signoff.html" />
     <Content Include="waystosave.html" />
     <None Include="CIS4910C_TemporaryKey.pfx" />
